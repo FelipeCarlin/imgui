@@ -4,7 +4,11 @@ bin/
 bin-int/
 
 # Files
+<<<<<<< HEAD
 *.user
 *.sln
 *.vcxproj
 *.filters
+=======
+*.user
+>>>>>>> 409e372cad0a6064d5fb09b2f09348a71d53af35
